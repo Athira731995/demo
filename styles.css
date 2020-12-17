@@ -1,0 +1,21 @@
+div{
+    background-color: blueviolet;
+    width: 100%;
+    height: 200px;
+    
+
+}
+p{
+font-size: 40px;
+font-weight: bold;
+font-family: 'Arial';
+color: chartreuse;
+}
+.demo{
+background-color: coral;
+width: 50%;
+height: 100px;
+}
+#id1{
+    color: aqua;
+}
